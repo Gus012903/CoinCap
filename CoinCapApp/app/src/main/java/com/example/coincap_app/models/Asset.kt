@@ -5,6 +5,6 @@ data class Asset (
     val name: String,
     val symbol: String,
     val price: String,
-    val perce: String,
+    val percentage: Double,
 
     )
